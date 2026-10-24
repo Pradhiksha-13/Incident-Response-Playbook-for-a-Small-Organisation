@@ -1,0 +1,10 @@
+{
+  "reporter_name": "Kabir Shah (fictional)",
+  "reporter_role": "Student Rep",
+  "time_noticed": "2026-10-24T11:15:00+05:30",
+  "incident_type": "Malware alert",
+  "systems_affected": "WS-07 (fictional workstation), shared drive Z:",
+  "data_involved": "student, unknown",
+  "description": "Antivirus alert and a message saying files are encrypted appeared on WS-07 during a workshop. Files on Z: look renamed.",
+  "actions_taken": "Unplugged network cable; did not restart."
+}
